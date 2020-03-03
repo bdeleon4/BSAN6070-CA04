@@ -7,7 +7,7 @@
 ## Getting Started
 * Google Colab Environment
 * Data downloaded from https://github.com/ArinB/MSBA-CA-03-Decision-Trees
-* Path in Google Drive set to exactly /content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA04/Data
+* Path in Google Drive set to exactly /content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA04/
 
 ## Install the following packages:
 * import numpy as np 
